@@ -9,6 +9,6 @@ public class Main {
 
         Substractor substractor = new Substractor();
 
-        System.out.println(substractor.substract(6, 3));
+        System.out.println(substractor.substract(6, 7));
     }
 }
