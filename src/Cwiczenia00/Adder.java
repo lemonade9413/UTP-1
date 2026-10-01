@@ -1,3 +1,5 @@
+package Cwiczenia00;
+
 public class Adder {
     public Adder(){}
 

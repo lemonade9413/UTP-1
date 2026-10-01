@@ -1,3 +1,5 @@
+package Cwiczenia00;
+
 public class Substractor {
     public int substract(int a, int b) {
         int c = a - b;
