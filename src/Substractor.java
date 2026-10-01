@@ -6,7 +6,7 @@ public class Substractor {
             System.out.print("Liczba jest ujemna, spróbuj ponownie. Err: ");
             return -1;
         } else {
-            System.out.print("Twój wynik to: ");
+            System.out.print("Twój wynik to:  ");
             return c;
         }
     }
